@@ -26,8 +26,9 @@
 
    3. 打开 `src/main/kotlin/PluginMain.kt`, 修改里面的插件描述信息
    4. 修改包名 (默认包名为 `org.example.mirai.plugin`):
-      1. 修改第一行 `package`
-      2. 
+      1. 修改 `src/main/kotlin/PluginMain.kt` 的 `package`
+      2. 修改 `src/main/test/RunMirai.kt` 的 `package`
+      3. 修改 `src/main/resources/META-INF/services/net.mamoe.mirai.console.plugin.jvm.JvmPlugin` 的内容为主类的全限定名 (带包名的名称)
    5. 修改主类类名 (可选) (*[怎么做?](.github/HowToRename.png)*)
 
 3. 运行测试
