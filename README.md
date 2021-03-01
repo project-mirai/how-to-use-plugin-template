@@ -50,8 +50,6 @@
    如果你感兴趣, 也可以在 [Mirai 官方论坛](https://mirai.mamoe.net/category/6/%E9%A1%B9%E7%9B%AE%E5%8F%91%E5%B8%83) 发布插件, 让更多人使用到你的插件.
 
 
-请在你的项目中删除本文, 并修改为你插件的描述.
-
 [嵌入启动]: https://github.com/mamoe/mirai-console/blob/master/docs/Run.md#%E5%B5%8C%E5%85%A5%E5%BA%94%E7%94%A8%E5%90%AF%E5%8A%A8%E5%AE%9E%E9%AA%8C%E6%80%A7
 
 ## 附录
